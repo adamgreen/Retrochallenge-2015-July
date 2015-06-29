@@ -1,0 +1,19 @@
+==June 29th, 2015 - Project Overview
+It has been awhile since my last [[https://github.com/adamgreen/Retrochallenge-2014WW#readme | Retrochallenge]] and I
+think it is high time that I at least do something retrocomputer related again.
+
+I am currently busy with other hobby projects this year but I would still like to take some time to start getting
+back up to speed on the computer which started it all for me back in 1983, the TRS-80 Color Computer 2.  With this goal
+in mind I think I want to start (re)reading some of the CoCo books that I already own with the intention of:
+* Learning 6809 assembly language
+* Learning how to utilize CoCo2 specific features (graphics, sound, etc) from 6809 assembly language code
+* Dreaming up potential CoCo2 game projects for future Retrochallenge projects
+* Dreaming up potential CoCo2 hardware projects for future Retrochallenge projects
+
+My reading will draw from this existing selection of books that I already own:\\
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-02.jpg}}
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-01.jpg}}\\
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-04.jpg}}
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-03.jpg}}\\
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-05.jpg}}
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-06.jpg}}\\

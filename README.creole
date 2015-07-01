@@ -1,3 +1,15 @@
+==July 1st, 2015 - Happy Canada Day & Let the Retrochallenge Begin!
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-02.jpg}}\\
+
+Today is the start of the
+[[http://www.wickensonline.co.uk/retrochallenge-2012sc/rc201507-entrants-list/ | 2015/07 Retrochallenge]].  I am now
+listed in the official entrant list so I guess it is time for me to start reading some CoCo related literature.  I think
+I am going to start with
+[[http://www.amazon.com/CoCo-Colorful-History-Underdog-Computer/dp/1466592478/ | "CoCo: The Colorful History of Tandy's Underdog Computer" by Boisy G Pitre & Bill Loguidice]].
+This will be the appetizer before I dig into the more technical entrees.
+
+
+
 ==June 29th, 2015 - Project Overview
 It has been awhile since my last [[https://github.com/adamgreen/Retrochallenge-2014WW#readme | Retrochallenge]] and I
 think it is high time that I do something retrocomputer related again.

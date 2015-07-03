@@ -1,3 +1,41 @@
+==July 2nd, 2015 - History of the CoCo
+I finished reading
+[[http://www.amazon.com/CoCo-Colorful-History-Underdog-Computer/dp/1466592478/ | "CoCo: The Colorful History of Tandy's Underdog Computer" by Boisy G Pitre & Bill Loguidice]]
+this morning.  It was a great walk through the history of the CoCo and some of its major players:
+
+* **Tandy** - Being the most obvious as they created the CoCo and distributed it through their extensive network of
+  Radio Shack stores.  I was a young kid in 1983 when I found a CoCo 2 underneath the Christmas tree.  This was quite a
+  surprise to me as there hadn't been a computer anywhere on the list I had previously sent off to the North Pole.  I
+  don't even remember looking at computers that much in the stores before that time.  I have some memory of the
+  Commodore VIC-20 in K-Mart store displays from before I received that first CoCo but I don't even remember being all
+  that interested in it.  I suspect that 'Santa' placed it under my tree as he himself was interested in playing with
+  it...not that he ever got that much of a chance to do so once I got my grubby paws on it :)  I have no doubt that it
+  being displayed in a window of a Radio Shack in our local mall that holiday season was a big influence on its purchase
+  and kickstarting my addiction to these computer things.
+* **Motorola** - They produced the cool little 8-bit 6809 CPU and other support ASICs found within the CoCo.  It sort of
+  feels like the CoCo might have been a consumer product instantiation of Motorola's App Note for the 6809 processor.
+* **Lonnie Falk** - Falsoft, THE RAINBOW magazine, and the associated RAINBOWFests founded by Mr. Falk were an integral
+  part of CoCo history.  I don't have any memories of this magazine from my childhood.  I had read a few issues of Hot
+  CoCo but not THE RAINBOW magazine.  Recently, I have read a number of the earlier RAINBOW issues found as scans
+  [[https://sites.google.com/a/aaronwolfe.com/cococoding/home/magazines/rainbow | here]].  I can definitely say that it
+  would have helped me get a lot more out of my CoCo as a kid if I had had access to that magazine back then.  It had
+  lots of great content.
+* **Microware** - Creators of the OS-9 operating system for the 6809.  The CoCo3 also shipped with a set of ROM patches
+  that Microware had created to update Microsoft's Extended BASIC ROM to support this newer CoCo hardware.  It was great
+  reading about the history of Microware and OS-9.  OS-9 is an area of the CoCo's history with which I have no
+  experience.  I have vague memories of OS-9 from the Radio Shack catalogs of the time but that is about it.  The
+  following image is the Easter Egg that the Microware engineers placed in the CoCo3 ROM to fill-up the unused bytes
+  with **random** data:\\
+{{http://www.cocopedia.com/wiki/images/d/db/CoCo3_Easter_Egg.png}}
+
+===Starting to Get Technical
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-01.jpg}}\\
+
+I now plan to start actually digging into the internals a bit more on the CoCo and that will begin with a read through
+of the [[https://archive.org/details/Trs-80ColorComputerTechnicalReferenceManual | TRS-80 Color Computer Technical Reference Manual]].
+
+
+
 ==July 1st, 2015 - Happy Canada Day & Let the Retrochallenge Begin!
 {{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-02.jpg}}\\
 

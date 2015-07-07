@@ -1,3 +1,34 @@
+==July 6th, 2015 - Reading about CoCo
+In the middle of my great CoCo reading I took a break to read the latest issue of Juiced.GS, the quarterly Apple ][
+journal.\\
+
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150705-01.jpg}}\\
+
+I love the cover of this most recent issue and the accompanying Kaboom! article was great too.  I have also been
+enjoying Martin Hayes' multipart Apple Mysteries segment in the last two issues.  How will it all end?
+
+Once I finished with that Apple ][ diversion, I jumped back into my CoCo related reading and finished the
+[[https://archive.org/details/Trs-80ColorComputerTechnicalReferenceManual | TRS-80 Color Computer Technical Reference Manual]]
+and the **MC6809 Preliminary Programming Manual (1979)**.\\
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-01.jpg}}
+{{https://github.com/adamgreen/Retrochallenge-2015-July/raw/master/images/20150629-06.jpg}}\\
+
+It is so awesome that you can sit down and read some
+technical documentation for a few days and have a pretty good feel for how >80% of a machine is programmed (graphics,
+sound, controller input, etc.)  Today I even find it hard to do that with the smallest microcontrollers since they have
+so many peripherals to wrap your head around if you truly want to understand everything they offer.  Of course I still
+need to sit down in front of a text editor / 6809 assembler and bang out some code to truly learn how to program the
+CoCo but I just don't think I will have time for that during this Retrochallenge.
+
+===Next Steps
+* There is definitely one more CoCo programming book that I would like to read during this Retrochallenge:
+[[https://sites.google.com/a/aaronwolfe.com/cococoding/home/docs/AssemblyLanguageProgrammingfortheColorComputer%28LaurenceATepolt%291985.pdf | Assembly Language Programming For The TRS-80 Color Computer, plus a users guide to EDTASM+ by Laurence A. Tepolt]].
+* Pull my CoCo2 out of the closet and play some games on it.
+* I have some ideas for CoCo cartridge based projects that I would like to work on in the future.  I would like to
+  design a prototype PCB for testing out some of those ideas.
+
+
+
 ==July 2nd, 2015 - History of the CoCo
 I finished reading
 [[http://www.amazon.com/CoCo-Colorful-History-Underdog-Computer/dp/1466592478/ | "CoCo: The Colorful History of Tandy's Underdog Computer" by Boisy G Pitre & Bill Loguidice]]

@@ -1,3 +1,51 @@
+==July 9th, 2015 - Retro Book Repair
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150709-01.jpg}}\\
+The binding had started to come off of my copy of
+[[https://archive.org/details/Trs-80ColorComputerTechnicalReferenceManual | TRS-80 Color Computer Technical Reference Manual]]
+while I was reading it last week so I thought it was time I repaired it before it completely fell apart.  I did some
+research on the Internet and various sites showed the use of
+[[http://www.amazon.com/Helmar-Acid-Free-Fluid-Ounce/dp/B005E9ZS4U | Helmar Acid Free Glue]] for such repairs.  I
+ordered some up and used it to reattach the cover to the spine of the book.  I just spread a bead of glue along the
+book's spine, pushed the cover back on, and then held it in place with a few books laid to the sides and on top to apply
+pressure while it dried.  After leaving it to dry overnight, the next day it was definitely in the best shape it's been
+in since I got it (it was a bit shoddy when I bought it from a used book store a few years ago.)
+
+===Real CoCo
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150709-02.jpg}}\\
+I pulled my CoCo2 out of the closet last night and the first thing I did was get Simon Jonassen's cool tunnel demo up
+and running on it.  Here is a [[https://www.youtube.com/watch?v=k7j1sxSq48w | link to a YouTube video of the demo posted
+by Simon himself]].  You can also find Simon's posting to the CoCo mailing list about this demo
+[[https://pairlist5.pair.net/pipermail/coco/2015-July/147383.html | here]].  It contains links to the source code and
+binaries.  The visualizations are pretty darn cool but for me the best part is the accompanying soundtrack.  It was a
+very good reason to pull the CoCo out.
+
+It took me a few minutes to remember how I got code over onto the CoCo since the last time I had used it was in 2011.
+Back then I had written a small Windows utility which would allow my CoCo to download code using the bit-banged serial
+port.  This program knows how to respond to the Extended Color BASIC DLOADM command.  I have placed a copy of the source
+code for this utility
+[[https://github.com/adamgreen/Retrochallenge-2015-July/blob/master/dloadm/dloadm.c | here in the repository]].  When I
+start this utility on the Windows machine I point it to a directory where files to be accessed by the CoCo are stored
+and give it particulars about the serial connection to use for communicating with the CoCo (COM12 at 4800 baud):
+
+{{{
+dloadm com12 --directory z:\binaries --baud 4800
+}}}
+
+To then access files in the z:\binaries directory from the CoCo, I must first configure the BASIC ROM to communicate
+over the bit-banged serial connection at 4800 baud by issuing the following POKE:
+{{{
+POKE &HE6,7
+}}}
+
+I can then use the DLOADM command to request a specific file from the PC (tune2 in this example):
+{{{
+DLOADM"TUNE2"
+}}}
+
+Now that I have the CoCo2 setup, I plan to take advantage and play a few games on it as well.
+
+
+
 ==July 6th, 2015 - Reading about CoCo
 In the middle of my great CoCo reading I took a break to read the latest issue of Juiced.GS, the quarterly Apple ][
 journal.\\

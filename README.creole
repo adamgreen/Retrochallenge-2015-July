@@ -1,3 +1,52 @@
+==July 16th, 2015 - Playing Games on CoCo 2 Hardware
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150716-01.jpg}}\\
+
+Now that I have my CoCo 2 pulled out of the closet, what better way to put it to use than playing some of the cartridge
+based games that I have as well.  My favorite of the cartridges that I have tried so far is
+[[http://www.lcurtisboyle.com/nitros9/sokoban.html | Soko-Ban]].  The
+[[https://en.wikipedia.org/wiki/Sokoban | Wikipedia page for Sokoban]] describes it as, "Sokoban (倉庫番 sōkoban?,
+warehouse keeper) is a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse,
+trying to get them to storage locations."  It is a very addictive little puzzle game.  The only thing that saved me from
+complete addiction was the fact that I had to sit hunched over the keyboard to play since my stock non-centering
+joysticks didn't work well with the game.
+
+===Finding my Center
+This lack of self-centering joysticks for my CoCo has to end.  I am pretty sure that I still have a Tandy Deluxe
+Joystick at my parent's house.  I just need to pull it out of storage the next time I visit.  Knowing that I probably
+still have one makes me less energetic to track down one on the Internet.  Could I build one instead?\\
+
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150716-03.jpg}}
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150716-04.jpg}}\\
+[[https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150716-04-fullsize.jpg | Full size image of joystick internals]]\\
+
+It turns out that I already had many of the pieces kicking around to **hack** together a basic self-centering joystick:
+* [[https://www.sparkfun.com/products/9032 | Thumb Joystick from Sparkfun]]
+* [[http://comingsoon.radioshack.com/spdt-switch-without-roller/2750016.html | SPDT Lever Switch]]
+* cat5 ethernet cable with >5 conductors as required for CoCo joystick port - Thanks Jesse for the recommendation!
+* Small brass nails to use as pins for DIY 5-pin male DIN connector
+* [[https://en.wikipedia.org/wiki/Altoids | Altoids]] tin for the proper Maker case
+* Hot glue to MacGyver it all together
+
+Most of the build is simply wiring together the parts as the
+[[https://archive.org/stream/Trs-80ColorComputerTechnicalReferenceManual/coco#page/n41/mode/1up | TRS-80 Color Computer Technical Reference Manual]]
+shows in its joystick schematic.  I didn't have a proper DIN connector available so I improvised with materials on hand.
+I used 5 small brass nails as pins for the DIN joystick connector.  I soldered cat5 wires to these nails.  These nails
+were inserted into the CoCo's joystick port to hold them in the correct DIN pattern and then I spread hot glue around
+the nails to hold them in the desired shape.
+
+The resulting joystick makes playing Soko-Ban a lean back experience and so much more addictive.
+
+===Getting "Back to BASIC"
+{{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150716-02.jpg}}\\
+
+I saw [[http://www.amazon.com/Back-BASIC-History-Corruption-Language/dp/0201134330 | this book]] mentioned in my recent
+retrocomputing travels on the Internet and decided to add it to my current retrochallenge reading list.  It gives a good
+overview of the history of the BASIC programming language from the point of view of the two creators of the language,
+John G. Kemeny & Thomas E. Kurtz.  They also describe why they felt the language was getting a bad reputation back in
+the mid-80s when the book was written.  The book ends with a description of their True BASIC product.
+
+
+
 ==July 9th, 2015 - Retro Book Repair
 {{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150709-01.jpg}}\\
 The binding had started to come off of my copy of

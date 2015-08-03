@@ -1,3 +1,22 @@
+==August 2nd, 2015 - Little Bit of Success - Little Bit of Failure
+* I successfully got myself back up to speed on the technical details of my first computer, the TRS-80 Color Computer 2.
+  I now have a lot of ideas for future Retrochallenge CoCo projects (both software and hardware.)
+* I had hoped to create a PCB that I could use for prototyping some future project ideas that I had for the Color
+  Computer cartridge port.  I started on this project but didn't get it completed enough for a writeup during this
+  Retrochallenge.
+
+===Tough Competition
+There were some great projects from the other Retrochallenge competitors this year.  My favorites include:
+* [[http://bootstrap-zero.tumblr.com | Cat's Eye Technologies' Entry]]: Not only did this entry include the hand
+  coding / assembling of a 6502 monitor, it also incorporated beautiful (and colorful) hand written documentation.  Well
+  Done!!
+* [[http://forth128.blogspot.com | Earl Evan's Entry]]: A great start to a Forth port for the C128.
+* [[http://playermissile.com/tech/starraiders/ | atari8bitgames's Entry]]: A peak inside the debugging attempt to track
+  down some slow explosion code in the Atari classic, Star Raiders.  I had hoped to see more progress in this entry but
+  even what was completed was a good read.
+
+
+
 ==July 18th, 2015 - Meandering
 [[https://twitter.com/urbancamo | Mark Wickens]] has posted
 [[http://www.wickensonline.co.uk/retrochallenge-2012sc/2015/07/18/rc201507-half-time-summary/ | his half-time summary of the RetroChallenge 2015/07 projects]].

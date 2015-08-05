@@ -90,8 +90,9 @@ in since I got it (it was a bit shoddy when I bought it from a used book store a
 ===Real CoCo
 {{https://raw.githubusercontent.com/adamgreen/Retrochallenge-2015-July/master/images/20150709-02.jpg}}\\
 I pulled my CoCo2 out of the closet last night and the first thing I did was get Simon Jonassen's cool tunnel demo up
-and running on it.  Here is a [[https://www.youtube.com/watch?v=k7j1sxSq48w | link to a YouTube video of the demo posted
-by Simon himself]].  You can also find Simon's posting to the CoCo mailing list about this demo
+and running on it.  Here is a
+[[https://www.youtube.com/watch?v=k7j1sxSq48w | link to a YouTube video of the demo posted by Simon himself]].
+You can also find Simon's posting to the CoCo mailing list about this demo
 [[https://pairlist5.pair.net/pipermail/coco/2015-July/147383.html | here]].  It contains links to the source code and
 binaries.  The visualizations are pretty darn cool but for me the best part is the accompanying soundtrack.  It was a
 very good reason to pull the CoCo out.
